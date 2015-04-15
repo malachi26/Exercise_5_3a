@@ -1,0 +1,6 @@
+C:\Work\Visual Studio 2013\Projects\Excercise_5_3a\Exercise_5_3a\bin\Debug\Exercise_5_3a.exe.config
+C:\Work\Visual Studio 2013\Projects\Excercise_5_3a\Exercise_5_3a\bin\Debug\Exercise_5_3a.exe
+C:\Work\Visual Studio 2013\Projects\Excercise_5_3a\Exercise_5_3a\bin\Debug\Exercise_5_3a.pdb
+C:\Work\Visual Studio 2013\Projects\Excercise_5_3a\Exercise_5_3a\obj\Debug\Exercise_5_3a.csprojResolveAssemblyReference.cache
+C:\Work\Visual Studio 2013\Projects\Excercise_5_3a\Exercise_5_3a\obj\Debug\Exercise_5_3a.exe
+C:\Work\Visual Studio 2013\Projects\Excercise_5_3a\Exercise_5_3a\obj\Debug\Exercise_5_3a.pdb
