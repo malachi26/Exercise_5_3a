@@ -26,5 +26,22 @@ namespace Excercise_5_3a
             }
             return output;
         }
+
+        public short ParseInput(string input, ushort min = 0, ushort max = 125)
+        {
+            var parsedInput = ParseInput(input);
+            if (parsedInput == -1)
+            {
+                return -1;
+            } 
+            else if (parsedInput < min || parsedInput > max)
+            {
+                return -1;
+            }
+            else
+            {
+                return parsedInput;
+            }
+        }
     }
 }
